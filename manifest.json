@@ -1,6 +1,6 @@
 ﻿{
 	"name": "Canlıları Sınıflandıralım",
-	"description": "deneme",
+	"description": "“Bu uygulama, öğrencilere çeşitli canlı   örnekleri vererek bu canlıların benzerlik ve farklılıklarına göre sınıflandırılmasını  sağlar.”",
 	"version": "1.0.0.0",
 	"manifest_version": 2,
 	"app": {
